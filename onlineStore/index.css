@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E5E5E5;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 80px 405px;
+    width: 1110px;
+    /* height: 1870px; */
+    height: auto;
+    left: 405px;
+    right: 405px;
+}
+
+.goods {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 1110px;
+    height: 430px;
+    margin-bottom: 100px;
+}
+
+
+.goods-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 1110px;
+    height: 363px;
+}
+
+.good {
+    background-color: #FFFFFF;
+    display: flex;
+    height: 363px;
+    width: 255px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+    text-align: center;    
+} 
+
+.goodData {
+    margin: 25px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+    text-align: center;   
+}
+
+.buybtn {
+    background-color: #F13C6E;
+    border-radius: 30px;
+    padding: 9px 40px;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.rectungles {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 212px;
+    width: 1110px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 100px;
+}
+
+.subscribe {
+    display: flex;
+    flex-direction: row;
+    background-color: #F13C6E;
+    border: 2px solid red;
+    height: 212px;
+    width: 540px;
+}
+
+.subscribe-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+    text-align: center;   
+    width: 250px;
+    height: 142px;
+    border: yellow solid 2px;
+    margin: 25px 0px;
+
+}
+
+.our-shops {
+    background-color: #F13C6E;
+    border: 2px solid red;
+    height: 212px;
+    width: 540px;
+}
+
+.shops {
+    width: 1110px;
+    height: 357px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 80px;
+}
+
+
+/* Text styles */
+.block-header-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.goodName {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.price {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+}
+
+/* images */
+.chair {
+    width: 125px;
+    height: 166px;
+}
+
+

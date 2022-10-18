@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="285d27b3-1c88-46e2-9227-91d8e056f0be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/Jediway" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/Jediway" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/alt_amlbot" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/alt_amlbot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/alt_wallets" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/alt_wallets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/egoizm" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/egoizm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/generative-art-node" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/generative-art-node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/hashlips_art_engine" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/hashlips_art_engine" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/zeroWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/zeroWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection_offers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../get_openOffers_x2y2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../listings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../listings_streamApi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../offers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verboff-sneackers" beforeDir="false" afterPath="$PROJECT_DIR$/../verboff-sneackers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vverboff_nftCreator" beforeDir="false" afterPath="$PROJECT_DIR$/../vverboff_nftCreator" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GAkeffSLIuU70KlaPgdsCFR704" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="285d27b3-1c88-46e2-9227-91d8e056f0be" name="Changes" comment="" />
+      <created>1665838872989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665838872989</updated>
+      <workItem from="1665838874401" duration="1000" />
+      <workItem from="1665845268348" duration="1000" />
+      <workItem from="1665858717439" duration="1000" />
+      <workItem from="1665866571162" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
