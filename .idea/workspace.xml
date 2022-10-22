@@ -5,10 +5,23 @@
       <change beforePath="$PROJECT_DIR$/../AltrpPlugins/Jediway" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/Jediway" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AltrpPlugins/alt_amlbot" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/alt_amlbot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AltrpPlugins/alt_wallets" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/alt_wallets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/altchain1" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/altchain1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AltrpPlugins/egoizm" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/egoizm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AltrpPlugins/generative-art-node" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/generative-art-node" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AltrpPlugins/hashlips_art_engine" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/hashlips_art_engine" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/json/10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/json/3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/json/4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/json/5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/json/6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/json/7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/json/8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/json/9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/json/_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AltrpPlugins/loadtoIPFS.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/loadtoIPFS.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AltrpPlugins/zeroWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../AltrpPlugins/zeroWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineStore/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/onlineStore/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineStore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/onlineStore/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../collection_offers.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../get_openOffers_x2y2.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../listings.json" beforeDir="false" />
@@ -51,6 +64,7 @@
       <workItem from="1665845268348" duration="1000" />
       <workItem from="1665858717439" duration="1000" />
       <workItem from="1665866571162" duration="2000" />
+      <workItem from="1666426581467" duration="2000" />
     </task>
     <servers />
   </component>

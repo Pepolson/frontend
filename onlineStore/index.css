@@ -2,12 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: none;
+
 }
 
 body {
     background-color: #E5E5E5;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    flex-direction: column;
+
 }
 
 .container {
@@ -19,6 +23,17 @@ body {
     height: auto;
     left: 405px;
     right: 405px;
+    
+}
+
+.intro {
+    display: flex;
+    width: 1920px;
+    height: 604px;
+    left: 0px;
+    top: 249px;
+    background-image: url('./img/background.png');
+
 }
 
 .goods {
@@ -78,7 +93,6 @@ body {
     justify-content: space-between;
     height: 212px;
     width: 1110px;
-    border: 2px solid rgb(0, 0, 0);
     margin-bottom: 100px;
 }
 
@@ -86,7 +100,6 @@ body {
     display: flex;
     flex-direction: row;
     background-color: #F13C6E;
-    border: 2px solid red;
     height: 212px;
     width: 540px;
 }
@@ -99,25 +112,84 @@ body {
     text-align: center;   
     width: 250px;
     height: 142px;
-    border: yellow solid 2px;
-    margin: 25px 0px;
+    margin: 40px 35px;
 
 }
 
+.rectungles-header {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.rectungles-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.emailInput {       
+    background: #FFFFFF;
+    border-radius: 30px;
+    width: 225px;
+    height: 35px;   
+}
+
+::placeholder {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #C4C4C4;
+}
+
+.mailLogo {
+    margin: 52.73px 45px
+}
+
+
 .our-shops {
     background-color: #F13C6E;
-    border: 2px solid red;
     height: 212px;
     width: 540px;
+    display: flex;
+    flex-direction: row;
+    background-color: #F13C6E;
+}
+
+.shopCard {
+    background: #F13C6E;
+    border: 2px solid #FFFFFF;
+    border-radius: 30px; 
+    width: 170px;
+    height: 35px;   
 }
 
 .shops {
     width: 1110px;
-    height: 357px;
-    border: 2px solid rgb(0, 0, 0);
+    height: 360px;
     margin-bottom: 80px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
+.shop {
+    width: 276px;
+    height: 118.3px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
 
 /* Text styles */
 .block-header-text {
